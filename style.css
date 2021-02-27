@@ -1,0 +1,62 @@
+<style>        
+        #button {
+ padding: 0;
+ }
+#button li {
+ display: inline;
+ }
+#button li a {
+ font-family: Arial;
+ font-size: 15px;
+ text-decoration: none;
+ float: left;
+ padding: 20px;
+ background-color:cadetblue;
+ color: #fff;
+ 
+    
+ }
+p{
+
+ 
+ font-size: 15px;
+ text-decoration: none;
+ float: left;
+ padding: 20px;
+ background-color: aquamarine;
+ color:black;
+}
+ footer {
+        height: 20px;
+        position: fixed;
+        bottom: 0;
+        color: #FFFFFF !important;
+        width: 100%;
+        text-align: center;
+     margin-top:7px;
+     float: left;
+     
+    }
+img{
+            margin-top: 7px;
+            width: 55%;
+            height: 50%;
+            border-color:blue;
+            border-width: 5px;
+            border-style:double;
+            float:left;
+    
+            
+ }
+body{
+    
+    background:url(https://th.bing.com/th/id/R5817b517dadf2f52d247ec6efb62c1e4?rik=lfAioTelfsj5uw&riu=http%3a%2f%2fdissenyaweb.com%2fblog%2fdiseno_web%2fwp-content%2fuploads%2fLeaf-1920x1200-1024x640.jpg&ehk=5Zr4aJWX8rhAV80T1pjB4rUOBKgTRR8U63%2fRBSzg2UE%3d&risl=&pid=ImgRaw)no-repeat center center fixed;
+     -moz-background-size: cover;
+            -webkit-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            width: auto;
+            height: auto;
+}
+
+    </style>
